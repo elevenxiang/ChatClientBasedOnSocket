@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChatClientBasedOnSocket</string>
+    <string name="input">please input server ip</string>
+    <string name="message">input here</string>
+</resources>
