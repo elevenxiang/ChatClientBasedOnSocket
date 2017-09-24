@@ -4,7 +4,7 @@ android {
     compileSdkVersion 26
     buildToolsVersion "26.0.1"
     defaultConfig {
-        applicationId "com.eleven_xianghtc.chatclientbasedonsocket"
+        applicationId "com.htc.eleven.chatclientbasedonsocket"
         minSdkVersion 23
         targetSdkVersion 26
         versionCode 1
